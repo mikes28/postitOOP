@@ -12,3 +12,4 @@
 /home/mikes/Documents/c#/postitOOP/obj/Debug/net8.0/postitOOP.pdb
 /home/mikes/Documents/c#/postitOOP/obj/Debug/net8.0/postitOOP.genruntimeconfig.cache
 /home/mikes/Documents/c#/postitOOP/obj/Debug/net8.0/ref/postitOOP.dll
+/home/mikes/Documents/c#/postitOOP/obj/Debug/net8.0/postitOOP.sourcelink.json

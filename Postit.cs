@@ -15,7 +15,7 @@ internal class Postit
     public string Text
     {
         get => text;
-        set => text = (text + value).Substring(100);
+        set => text = (text + value).Length <= 100 ? text + value : text;
     }
     public override string ToString()
     {

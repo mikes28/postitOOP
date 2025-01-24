@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("postitOOP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5900efa1199fa5dddb038e764bafa6424d11a529")]
 [assembly: System.Reflection.AssemblyProductAttribute("postitOOP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("postitOOP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
