@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qC2lKBZHnIK1hr7Lm5rYx/mn6YdscEjc7YD0ny6Arh9jVgBWRg/7XDRgqgNzE9hts461QgP3E1tfnRP3uxkxwA==",
+  "success": true,
+  "projectFilePath": "/home/mikes/Documents/c#/postitOOP/postitOOP.csproj",
+  "expectedPackageFiles": [
+    "/home/mikes/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

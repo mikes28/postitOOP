@@ -1,0 +1,14 @@
+/home/mikes/Documents/c#/postitOOP/bin/Debug/net8.0/postitOOP
+/home/mikes/Documents/c#/postitOOP/bin/Debug/net8.0/postitOOP.deps.json
+/home/mikes/Documents/c#/postitOOP/bin/Debug/net8.0/postitOOP.runtimeconfig.json
+/home/mikes/Documents/c#/postitOOP/bin/Debug/net8.0/postitOOP.dll
+/home/mikes/Documents/c#/postitOOP/bin/Debug/net8.0/postitOOP.pdb
+/home/mikes/Documents/c#/postitOOP/obj/Debug/net8.0/postitOOP.GeneratedMSBuildEditorConfig.editorconfig
+/home/mikes/Documents/c#/postitOOP/obj/Debug/net8.0/postitOOP.AssemblyInfoInputs.cache
+/home/mikes/Documents/c#/postitOOP/obj/Debug/net8.0/postitOOP.AssemblyInfo.cs
+/home/mikes/Documents/c#/postitOOP/obj/Debug/net8.0/postitOOP.csproj.CoreCompileInputs.cache
+/home/mikes/Documents/c#/postitOOP/obj/Debug/net8.0/postitOOP.dll
+/home/mikes/Documents/c#/postitOOP/obj/Debug/net8.0/refint/postitOOP.dll
+/home/mikes/Documents/c#/postitOOP/obj/Debug/net8.0/postitOOP.pdb
+/home/mikes/Documents/c#/postitOOP/obj/Debug/net8.0/postitOOP.genruntimeconfig.cache
+/home/mikes/Documents/c#/postitOOP/obj/Debug/net8.0/ref/postitOOP.dll
